@@ -1,0 +1,12 @@
+{
+  "policies": {
+    "DisableAppUpdate": true,
+    "DontCheckDefaultBrowser": true,
+    "DisplayBookmarksInfobar": false,
+    "SearchBar": "unified",
+    "Homepage": {
+      "URL": "https://google.com",
+      "Locked": false
+    }
+  }
+}

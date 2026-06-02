@@ -1,0 +1,1 @@
+"%~dp0TeamViewer_Setup.exe" /S /norestart

@@ -1,0 +1,1 @@
+"%~dp0VSCodeSetup-x64-1.122.1.exe" /VERYSILENT /NORESTART /SUPPRESSMSGBOXES /LOG="%~dp0VSCode_install.log" /MERGETASKS=!runcode,desktopicon,quicklaunchicon

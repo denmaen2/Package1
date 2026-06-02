@@ -1,0 +1,1 @@
+msiexec.exe /i "%~dp0vlc-3.0.23-win32.msi" /qn /norestart /L*V "%~dp0vlc_install.log" && reg delete "HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run" /v "VLC" /f && reg delete "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v "VLC" /f
